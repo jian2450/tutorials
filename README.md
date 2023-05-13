@@ -52,6 +52,7 @@
 到此软件已设置完成，可以打开浏览器尝试访问谷歌搜索测试是否可用。
 
 ### 如果您觉得有用，欢迎打赏
-![a93040cf05a8f51cb870e66fa8f856c](https://github.com/jian2450/tutorials/assets/36982470/c0869cf0-b060-4c56-8060-52780375f9a8)
+
+![微信图片_20230513185822](https://github.com/jian2450/tutorials/assets/36982470/c9db0ff3-5245-43ac-ad05-54470cfbff82)
 
 
